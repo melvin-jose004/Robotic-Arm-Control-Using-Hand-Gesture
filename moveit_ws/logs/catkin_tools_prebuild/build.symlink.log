@@ -1,0 +1,12 @@
+Symlinking /home/latitude/moveit_ws/devel/./local_setup.bash
+Symlinking /home/latitude/moveit_ws/devel/./env.sh
+Symlinking /home/latitude/moveit_ws/devel/./_setup_util.py
+Symlinking /home/latitude/moveit_ws/devel/./setup.bash
+Symlinking /home/latitude/moveit_ws/devel/./local_setup.sh
+Symlinking /home/latitude/moveit_ws/devel/./cmake.lock
+Symlinking /home/latitude/moveit_ws/devel/./setup.sh
+Symlinking /home/latitude/moveit_ws/devel/./setup.zsh
+Symlinking /home/latitude/moveit_ws/devel/./local_setup.zsh
+Symlinking /home/latitude/moveit_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/latitude/moveit_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/latitude/moveit_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

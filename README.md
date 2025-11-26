@@ -26,10 +26,10 @@ Install the following Python packages:
 
 https://github.com/user-attachments/assets/ab1a83ec-530b-4827-90ac-fee754aa0577
 
-1. The terminal in the top left contains all the tabs running the commands required to run the entire projects, They are started using the ./run.sh command.
-2. The gazebo window on the top right is the simulator where the robotic arm control is executed and controlled.
-3. The window on the bottom left is part of th ehand gesture module and it detects and send the hand gesture.
-4. The window on the bottom right runs RViz and it is responsible for the motion plannig of the robotic arm.
+1. The terminal in the top-left shows all the tabs running the commands required for the project. These processes are started using the ./run.sh command.
+2. The Gazebo window in the top-right is the simulation environment where the robotic arm is executed and controlled.
+3. The window in the bottom-left is part of the hand-gesture module, and it detects and sends the recognized hand gestures.
+4. The window on the bottom-right runs RViz with the MoveIt plugin. MoveIt handles the motion planning for the robotic arm, while RViz is used to visualize the robot and the planned trajectories.
 
 
 ## How to Run
